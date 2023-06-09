@@ -4,6 +4,10 @@ __pycache__
 .vscode
 regen.json
 .ipynb_checkpoints
+<<<<<<< HEAD
 model
 BELLE-7B-gptq
 BELLE-7B-2M
+=======
+.idea
+>>>>>>> 7dafb417c7902390af0ffecefd57024fdde9a004
